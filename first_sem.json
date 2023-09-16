@@ -8,29 +8,29 @@
                 {
                     "subject": "Calculus and Differential Equations",
                     "subject_code": "21MAT11",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 48,
+                    "ext_marks": 45,
                     "total_marks": 93
                 },
                 {
                     "subject": "Engineering Physics",
                     "subject_code": "21PHY12",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 50,
+                    "ext_marks": 36,
                     "total_marks": 86
                 },
                 {
                     "subject": "Basic Electrical Engineering",
                     "subject_code": "21ELE13",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 47,
+                    "ext_marks": 33,
                     "total_marks": 80
                 },
                 {
                     "subject": "Elements of Civil Engineering & Mechanics",
                     "subject_code": "21CIV14",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 49,
+                    "ext_marks": 43,
                     "total_marks": 92
                 },
                 {
@@ -43,29 +43,29 @@
                 {
                     "subject": "Engineering Physics Laboratory",
                     "subject_code": "21PHYL16",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 49,
+                    "ext_marks": 47,
                     "total_marks": 96
                 },
                 {
                     "subject": "Basic Electrical Engineering Laboratory",
                     "subject_code": "21ELEL17",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 48,
+                    "ext_marks": 50,
                     "total_marks": 98
                 },
                 {
                     "subject": "Communicative English",
                     "subject_code": "21EGH18",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 46,
+                    "ext_marks": 42,
                     "total_marks": 88
                 },
                 {
                     "subject": "Innovation and Design Thinking",
                     "subject_code": "21IDT19",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 50,
+                    "ext_marks": 46,
                     "total_marks": 96
                 }
             ],
@@ -80,64 +80,64 @@
                 {
                     "subject": "Calculus and Differential Equations",
                     "subject_code": "21MAT11",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 50,
+                    "ext_marks": 46,
                     "total_marks": 96
                 },
                 {
                     "subject": "Engineering Physics",
                     "subject_code": "21PHY12",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 48,
+                    "ext_marks": 41,
                     "total_marks": 89
                 },
                 {
                     "subject": "Basic Electrical Engineering",
                     "subject_code": "21ELE13",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 49,
+                    "ext_marks": 32,
                     "total_marks": 81
                 },
                 {
                     "subject": "Elements of Civil Engineering & Mechanics",
                     "subject_code": "21CIV14",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 49,
+                    "ext_marks": 44,
                     "total_marks": 93
                 },
                 {
                     "subject": "Engineering Visualization",
                     "subject_code": "21EVN15",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 50,
+                    "ext_marks": 48,
                     "total_marks": 98
                 },
                 {
                     "subject": "Engineering Physics Laboratory",
                     "subject_code": "21PHYL16",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 48,
+                    "ext_marks": 45,
                     "total_marks": 93
                 },
                 {
                     "subject": "Basic Electrical Engineering Laboratory",
                     "subject_code": "21ELEL17",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 48,
+                    "ext_marks": 48,
                     "total_marks": 96
                 },
                 {
                     "subject": "Communicative English",
                     "subject_code": "21EGH18",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 46,
+                    "ext_marks": 40,
                     "total_marks": 86
                 },
                 {
                     "subject": "Innovation and Design Thinking",
                     "subject_code": "21IDT19",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 50,
+                    "ext_marks": 40,
                     "total_marks": 90
                 }
             ],
@@ -152,64 +152,64 @@
                 {
                     "subject": "Calculus and Differential Equations",
                     "subject_code": "21MAT11",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 41,
+                    "ext_marks": 36,
                     "total_marks": 77
                 },
                 {
                     "subject": "Engineering Physics",
                     "subject_code": "21PHY12",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 46,
+                    "ext_marks": 33,
                     "total_marks": 79
                 },
                 {
                     "subject": "Basic Electrical Engineering",
                     "subject_code": "21ELE13",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 45,
+                    "ext_marks": 25,
                     "total_marks": 70
                 },
                 {
                     "subject": "Elements of Civil Engineering & Mechanics",
                     "subject_code": "21CIV14",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 47,
+                    "ext_marks": 35,
                     "total_marks": 82
                 },
                 {
                     "subject": "Engineering Visualization",
                     "subject_code": "21EVN15",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 50,
+                    "ext_marks": 48,
                     "total_marks": 98
                 },
                 {
                     "subject": "Engineering Physics Laboratory",
                     "subject_code": "21PHYL16",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 48,
+                    "ext_marks": 49,
                     "total_marks": 97
                 },
                 {
                     "subject": "Basic Electrical Engineering Laboratory",
                     "subject_code": "21ELEL17",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 50,
+                    "ext_marks": 50,
                     "total_marks": 100
                 },
                 {
                     "subject": "Communicative English",
                     "subject_code": "21EGH18",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 44,
+                    "ext_marks": 42,
                     "total_marks": 86
                 },
                 {
                     "subject": "Innovation and Design Thinking",
                     "subject_code": "21IDT19",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 50,
+                    "ext_marks": 49,
                     "total_marks": 99
                 }
             ],
@@ -224,64 +224,64 @@
                 {
                     "subject": "Calculus and Differential Equations",
                     "subject_code": "21MAT11",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 46,
+                    "ext_marks": 45,
                     "total_marks": 91
                 },
                 {
                     "subject": "Engineering Chemistry",
                     "subject_code": "21CHE12",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 43,
+                    "ext_marks": 43,
                     "total_marks": 86
                 },
                 {
                     "subject": "Problem Solving Through Programming",
                     "subject_code": "21PSP13",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 48,
+                    "ext_marks": 43,
                     "total_marks": 91
                 },
                 {
                     "subject": "Basic Electronics and Communication Engineering",
                     "subject_code": "21ELN14",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 50,
+                    "ext_marks": 29,
                     "total_marks": 79
                 },
                 {
                     "subject": "Elements of Mechanical Engineering",
                     "subject_code": "21EME15",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 48,
+                    "ext_marks": 37,
                     "total_marks": 98
                 },
                 {
                     "subject": "Engineering Chemistry Laboratory",
                     "subject_code": "21PCHEL16",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 46,
+                    "ext_marks": 48,
                     "total_marks": 94
                 },
                 {
                     "subject": "Computer Programming Laboratory",
                     "subject_code": "21CPL17",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 50,
+                    "ext_marks": 50,
                     "total_marks": 100
                 },
                 {
                     "subject": "Communicative English",
                     "subject_code": "21EGH18",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 45,
+                    "ext_marks": 36,
                     "total_marks": 81
                 },
                 {
                     "subject": "Scientific Foundation of Health",
                     "subject_code": "21IDT19",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 49,
+                    "ext_marks": 32,
                     "total_marks": 81
                 }
             ],
@@ -296,64 +296,64 @@
                 {
                     "subject": "Calculus and Differential Equations",
                     "subject_code": "21MAT11",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 49,
+                    "ext_marks": 47,
                     "total_marks": 96
                 },
                 {
                     "subject": "Engineering Chemistry",
                     "subject_code": "21CHE12",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 44,
+                    "ext_marks": 42,
                     "total_marks": 86
                 },
                 {
                     "subject": "Problem Solving Through Programming",
                     "subject_code": "21PSP13",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 46,
+                    "ext_marks": 25,
                     "total_marks": 71
                 },
                 {
                     "subject": "Basic Electronics and Communication Engineering",
                     "subject_code": "21ELN14",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 50,
+                    "ext_marks": 33,
                     "total_marks": 83
                 },
                 {
                     "subject": "Elements of Mechanical Engineering",
                     "subject_code": "21EME15",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 50,
+                    "ext_marks": 30,
                     "total_marks": 80
                 },
                 {
                     "subject": "Engineering Chemistry Laboratory",
                     "subject_code": "21PCHEL16",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 42,
+                    "ext_marks": 47,
                     "total_marks": 89
                 },
                 {
                     "subject": "Computer Programming Laboratory",
                     "subject_code": "21CPL17",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 50,
+                    "ext_marks": 49,
                     "total_marks": 99
                 },
                 {
                     "subject": "Communicative English",
                     "subject_code": "21EGH18",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 49,
+                    "ext_marks": 37,
                     "total_marks": 86
                 },
                 {
                     "subject": "Scientific Foundation of Health",
                     "subject_code": "21IDT19",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 49,
+                    "ext_marks": 34,
                     "total_marks": 83
                 }
             ],
@@ -368,64 +368,64 @@
                 {
                     "subject": "Calculus and Differential Equations",
                     "subject_code": "21MAT11",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 46,
+                    "ext_marks": 44,
                     "total_marks": 90
                 },
                 {
                     "subject": "Engineering Physics",
                     "subject_code": "21PHY12",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 45,
+                    "ext_marks": 35,
                     "total_marks": 80
                 },
                 {
                     "subject": "Basic Electrical Engineering",
                     "subject_code": "21ELE13",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 42,
+                    "ext_marks": 31,
                     "total_marks": 73
                 },
                 {
                     "subject": "Elements of Civil Engineering & Mechanics",
                     "subject_code": "21CIV14",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 46,
+                    "ext_marks": 38,
                     "total_marks": 84
                 },
                 {
                     "subject": "Engineering Visualization",
                     "subject_code": "21EVN15",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 49,
+                    "ext_marks": 45,
                     "total_marks": 94
                 },
                 {
                     "subject": "Engineering Physics Laboratory",
                     "subject_code": "21PHYL16",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 45,
+                    "ext_marks": 38,
                     "total_marks": 83
                 },
                 {
                     "subject": "Basic Electrical Engineering Laboratory",
                     "subject_code": "21ELEL17",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 48,
+                    "ext_marks": 47,
                     "total_marks": 95
                 },
                 {
                     "subject": "Communicative English",
                     "subject_code": "21EGH18",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 42,
+                    "ext_marks": 40,
                     "total_marks": 82
                 },
                 {
                     "subject": "Innovation and Design Thinking",
                     "subject_code": "21IDT19",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 50,
+                    "ext_marks": 39,
                     "total_marks": 89
                 }
             ],
@@ -440,64 +440,64 @@
                 {
                     "subject": "Calculus and Differential Equations",
                     "subject_code": "21MAT11",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 46,
+                    "ext_marks": 42,
                     "total_marks": 88
                 },
                 {
                     "subject": "Engineering Chemistry",
                     "subject_code": "21CHE12",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 43,
+                    "ext_marks": 46,
                     "total_marks": 89
                 },
                 {
                     "subject": "Problem Solving Through Programming",
                     "subject_code": "21PSP13",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 46,
+                    "ext_marks": 22,
                     "total_marks": 68
                 },
                 {
                     "subject": "Basic Electronics and Communication Engineering",
                     "subject_code": "21ELN14",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 48,
+                    "ext_marks": 39,
                     "total_marks": 87
                 },
                 {
                     "subject": "Elements of Mechanical Engineering",
                     "subject_code": "21EME15",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 47,
+                    "ext_marks": 29,
                     "total_marks": 76
                 },
                 {
                     "subject": "Engineering Chemistry Laboratory",
                     "subject_code": "21PCHEL16",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 45,
+                    "ext_marks": 48,
                     "total_marks": 93
                 },
                 {
                     "subject": "Computer Programming Laboratory",
                     "subject_code": "21CPL17",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 50,
+                    "ext_marks": 50,
                     "total_marks": 100
                 },
                 {
                     "subject": "Communicative English",
                     "subject_code": "21EGH18",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 47,
+                    "ext_marks": 38,
                     "total_marks": 85
                 },
                 {
                     "subject": "Scientific Foundation of Health",
                     "subject_code": "21IDT19",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 49,
+                    "ext_marks": 31,
                     "total_marks": 80
                 }
             ],
@@ -512,64 +512,64 @@
                 {
                     "subject": "Calculus and Differential Equations",
                     "subject_code": "21MAT11",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 59,
+                    "ext_marks": 38,
                     "total_marks": 87
                 },
                 {
                     "subject": "Engineering Chemistry",
                     "subject_code": "21CHE12",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 50,
+                    "ext_marks": 43,
                     "total_marks": 93
                 },
                 {
                     "subject": "Problem Solving Through Programming",
                     "subject_code": "21PSP13",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 44,
+                    "ext_marks": 37,
                     "total_marks": 81
                 },
                 {
                     "subject": "Basic Electronics and Communication Engineering",
                     "subject_code": "21ELN14",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 50,
+                    "ext_marks": 21,
                     "total_marks": 71
                 },
                 {
                     "subject": "Elements of Mechanical Engineering",
                     "subject_code": "21EME15",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 49,
+                    "ext_marks": 20,
                     "total_marks": 69
                 },
                 {
                     "subject": "Engineering Chemistry Laboratory",
                     "subject_code": "21PCHEL16",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 50,
+                    "ext_marks": 49,
                     "total_marks": 99
                 },
                 {
                     "subject": "Computer Programming Laboratory",
                     "subject_code": "21CPL17",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 44,
+                    "ext_marks": 46,
                     "total_marks": 90
                 },
                 {
                     "subject": "Communicative English",
                     "subject_code": "21EGH18",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 46,
+                    "ext_marks": 43,
                     "total_marks": 89
                 },
                 {
                     "subject": "Scientific Foundation of Health",
                     "subject_code": "21IDT19",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 50,
+                    "ext_marks": 33,
                     "total_marks": 83
                 }
             ],
@@ -584,64 +584,64 @@
                 {
                     "subject": "Calculus and Differential Equations",
                     "subject_code": "21MAT11",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 45,
+                    "ext_marks": 35,
                     "total_marks": 80
                 },
                 {
                     "subject": "Engineering Chemistry",
                     "subject_code": "21CHE12",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 43,
+                    "ext_marks": 42,
                     "total_marks": 85
                 },
                 {
                     "subject": "Problem Solving Through Programming",
                     "subject_code": "21PSP13",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 43,
+                    "ext_marks": 36,
                     "total_marks": 79
                 },
                 {
                     "subject": "Basic Electronics and Communication Engineering",
                     "subject_code": "21ELN14",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 43,
+                    "ext_marks": 29,
                     "total_marks": 72
                 },
                 {
                     "subject": "Elements of Mechanical Engineering",
                     "subject_code": "21EME15",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 49,
+                    "ext_marks": 23,
                     "total_marks": 72
                 },
                 {
                     "subject": "Engineering Chemistry Laboratory",
                     "subject_code": "21PCHEL16",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 50,
+                    "ext_marks": 48,
                     "total_marks": 98
                 },
                 {
                     "subject": "Computer Programming Laboratory",
                     "subject_code": "21CPL17",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 50,
+                    "ext_marks": 43,
                     "total_marks": 93
                 },
                 {
                     "subject": "Communicative English",
                     "subject_code": "21EGH18",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 44,
+                    "ext_marks": 42,
                     "total_marks": 86
                 },
                 {
                     "subject": "Scientific Foundation of Health",
                     "subject_code": "21IDT19",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 37,
+                    "ext_marks": 37,
                     "total_marks": 84
                 }
             ],
@@ -656,64 +656,64 @@
                 {
                     "subject": "Calculus and Differential Equations",
                     "subject_code": "21MAT11",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 43,
+                    "ext_marks": 47,
                     "total_marks": 90
                 },
                 {
                     "subject": "Engineering Physics",
                     "subject_code": "21PHY12",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 47,
+                    "ext_marks": 30,
                     "total_marks": 77
                 },
                 {
                     "subject": "Basic Electrical Engineering",
                     "subject_code": "21ELE13",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 35,
+                    "ext_marks": 34,
                     "total_marks": 69
                 },
                 {
                     "subject": "Elements of Civil Engineering & Mechanics",
                     "subject_code": "21CIV14",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 44,
+                    "ext_marks": 34,
                     "total_marks": 81
                 },
                 {
                     "subject": "Engineering Visualization",
                     "subject_code": "21EVN15",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 44,
+                    "ext_marks": 48,
                     "total_marks": 92
                 },
                 {
                     "subject": "Engineering Physics Laboratory",
                     "subject_code": "21PHYL16",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 45,
+                    "ext_marks": 40,
                     "total_marks": 85
                 },
                 {
                     "subject": "Basic Electrical Engineering Laboratory",
                     "subject_code": "21ELEL17",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 46,
+                    "ext_marks": 43,
                     "total_marks": 89
                 },
                 {
                     "subject": "Communicative English",
                     "subject_code": "21EGH18",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 39,
+                    "ext_marks": 32,
                     "total_marks": 71
                 },
                 {
                     "subject": "Innovation and Design Thinking",
                     "subject_code": "21IDT19",
-                    "int_marks": 0,
-                    "ext_marks": 0,
+                    "int_marks": 49,
+                    "ext_marks": 41,
                     "total_marks": 90
                 }
             ],
