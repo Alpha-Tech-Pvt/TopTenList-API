@@ -1,0 +1,724 @@
+{
+    "rank": [
+        {
+            "name": "Anushree C B",
+            "usn": "4AI21AI009",
+            "cycle": "Physics",
+            "subjects": [
+                {
+                    "subject": "Advanced Calculus and Numerical Methods",
+                    "subject_code": "21MAT21",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 86
+                },
+                {
+                    "subject": "Engineering Physics",
+                    "subject_code": "21PHY22",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 95
+                },
+                {
+                    "subject": "Basic Electrical Engineering",
+                    "subject_code": "21ELE23",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 82
+                },
+                {
+                    "subject": "Elements of Civil Engineering & Mechanics",
+                    "subject_code": "21CIV24",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 68
+                },
+                {
+                    "subject": "Engineering Visualization",
+                    "subject_code": "21EVN25",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 97
+                },
+                {
+                    "subject": "Engineering Physics Laboratory",
+                    "subject_code": "21PHYL26",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 97
+                },
+                {
+                    "subject": "Basic Electrical Engineering Laboratory",
+                    "subject_code": "21ELEL27",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 100
+                },
+                {
+                    "subject": "Communicative English",
+                    "subject_code": "21EGH28",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 75
+                },
+                {
+                    "subject": "Innovation and Design Thinking",
+                    "subject_code": "21IDT29",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 93
+                }
+            ],
+            "total": 793,
+            "spga": 0
+        },
+        {
+            "name": "Keerthana S S",
+            "usn": "4AI21AI0028",
+            "cycle": "Physics",
+            "subjects": [
+                {
+                    "subject": "Advanced Calculus and Numerical Methods",
+                    "subject_code": "21MAT21",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 96
+                },
+                {
+                    "subject": "Engineering Physics",
+                    "subject_code": "21PHY22",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 90
+                },
+                {
+                    "subject": "Basic Electrical Engineering",
+                    "subject_code": "21ELE23",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 86
+                },
+                {
+                    "subject": "Elements of Civil Engineering & Mechanics",
+                    "subject_code": "21CIV24",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 78
+                },
+                {
+                    "subject": "Engineering Visualization",
+                    "subject_code": "21EVN25",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 86
+                },
+                {
+                    "subject": "Engineering Physics Laboratory",
+                    "subject_code": "21PHYL26",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 92
+                },
+                {
+                    "subject": "Basic Electrical Engineering Laboratory",
+                    "subject_code": "21ELEL27",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 95
+                },
+                {
+                    "subject": "Communicative English",
+                    "subject_code": "21EGH28",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 69
+                },
+                {
+                    "subject": "Innovation and Design Thinking",
+                    "subject_code": "21IDT29",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 87
+                }
+            ],
+            "total": 779,
+            "spga": 0
+        },
+        {
+            "name": "Syeda Taneen Falak",
+            "usn": "4AI21AI056",
+            "cycle": "Physics",
+            "subjects": [
+                {
+                    "subject": "Advanced Calculus and Numerical Methods",
+                    "subject_code": "21MAT21",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 80
+                },
+                {
+                    "subject": "Engineering Physics",
+                    "subject_code": "21PHY22",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 88
+                },
+                {
+                    "subject": "Basic Electrical Engineering",
+                    "subject_code": "21ELE23",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 86
+                },
+                {
+                    "subject": "Elements of Civil Engineering & Mechanics",
+                    "subject_code": "21CIV24",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 71
+                },
+                {
+                    "subject": "Engineering Visualization",
+                    "subject_code": "21EVN25",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 97
+                },
+                {
+                    "subject": "Engineering Physics Laboratory",
+                    "subject_code": "21PHYL26",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 94
+                },
+                {
+                    "subject": "Basic Electrical Engineering Laboratory",
+                    "subject_code": "21ELEL27",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 91
+                },
+                {
+                    "subject": "Communicative English",
+                    "subject_code": "21EGH28",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 75
+                },
+                {
+                    "subject": "Innovation and Design Thinking",
+                    "subject_code": "21IDT29",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 91
+                }
+            ],
+            "total": 772,
+            "spga": 0
+        },
+        {
+            "name": "Devika M",
+            "usn": "4AI21AI015",
+            "cycle": "Physics",
+            "subjects": [
+                {
+                    "subject": "Advanced Calculus and Numerical Methods",
+                    "subject_code": "21MAT21",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 84
+                },
+                {
+                    "subject": "Engineering Physics",
+                    "subject_code": "21PHY22",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 84
+                },
+                {
+                    "subject": "Basic Electrical Engineering",
+                    "subject_code": "21ELE23",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 78
+                },
+                {
+                    "subject": "Elements of Civil Engineering & Mechanics",
+                    "subject_code": "21CIV24",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 77
+                },
+                {
+                    "subject": "Engineering Visualization",
+                    "subject_code": "21EVN25",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 92
+                },
+                {
+                    "subject": "Engineering Physics Laboratory",
+                    "subject_code": "21PHYL26",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 92
+                },
+                {
+                    "subject": "Basic Electrical Engineering Laboratory",
+                    "subject_code": "21ELEL27",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 96
+                },
+                {
+                    "subject": "Communicative English",
+                    "subject_code": "21EGH28",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 69
+                },
+                {
+                    "subject": "Innovation and Design Thinking",
+                    "subject_code": "21IDT29",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 94
+                }
+            ],
+            "total": 763,
+            "spga": 0
+        },
+        {
+            "name": "Soorya U",
+            "usn": "4AI21AI052",
+            "cycle": "Chemistry",
+            "subjects": [
+                {
+                    "subject": "Calculus and Differential Equations",
+                    "subject_code": "21MAT21",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 93
+                },
+                {
+                    "subject": "Engineering Chemistry",
+                    "subject_code": "21CHE22",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 80
+                },
+                {
+                    "subject": "Problem Solving Through Programming",
+                    "subject_code": "21PSP23",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 78
+                },
+                {
+                    "subject": "Basic Electronics and Communication Engineering",
+                    "subject_code": "21ELN24",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 77
+                },
+                {
+                    "subject": "Elements of Mechanical Engineering",
+                    "subject_code": "21EME25",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 75
+                },
+                {
+                    "subject": "Engineering Chemistry Laboratory",
+                    "subject_code": "21PCHEL26",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 97
+                },
+                {
+                    "subject": "Computer Programming Laboratory",
+                    "subject_code": "21CPL27",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 100
+                },
+                {
+                    "subject": "Communicative English",
+                    "subject_code": "21EGH28",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 84
+                },
+                {
+                    "subject": "Scientific Foundation of Health",
+                    "subject_code": "21IDT29",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 79
+                }
+            ],
+            "total": 763,
+            "spga": 0
+        },
+        {
+            "name": "Sonakshi K P",
+            "usn": "4AI21AI051",
+            "cycle": "Physics",
+            "subjects": [
+                {
+                    "subject": "Advanced Calculus and Numerical Methods",
+                    "subject_code": "21MAT21",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 88
+                },
+                {
+                    "subject": "Engineering Physics",
+                    "subject_code": "21PHY22",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 74
+                },
+                {
+                    "subject": "Basic Electrical Engineering",
+                    "subject_code": "21ELE23",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 79
+                },
+                {
+                    "subject": "Elements of Civil Engineering & Mechanics",
+                    "subject_code": "21CIV24",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 77
+                },
+                {
+                    "subject": "Engineering Visualization",
+                    "subject_code": "21EVN25",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 99
+                },
+                {
+                    "subject": "Engineering Physics Laboratory",
+                    "subject_code": "21PHYL26",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 98
+                },
+                {
+                    "subject": "Basic Electrical Engineering Laboratory",
+                    "subject_code": "21ELEL27",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 80
+                },
+                {
+                    "subject": "Communicative English",
+                    "subject_code": "21EGH28",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 74
+                },
+                {
+                    "subject": "Innovation and Design Thinking",
+                    "subject_code": "21IDT29",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 88
+                }
+            ],
+            "total": 757,
+            "spga": 0
+        },
+        {
+            "name": "Ayuktha S V",
+            "usn": "4AI21AI010",
+            "cycle": "Physics",
+            "subjects": [
+                {
+                    "subject": "Advanced Calculus and Numerical Methods",
+                    "subject_code": "21MAT21",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 81
+                },
+                {
+                    "subject": "Engineering Physics",
+                    "subject_code": "21PHY22",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 91
+                },
+                {
+                    "subject": "Basic Electrical Engineering",
+                    "subject_code": "21ELE23",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 75
+                },
+                {
+                    "subject": "Elements of Civil Engineering & Mechanics",
+                    "subject_code": "21CIV24",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 64
+                },
+                {
+                    "subject": "Engineering Visualization",
+                    "subject_code": "21EVN25",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 84
+                },
+                {
+                    "subject": "Engineering Physics Laboratory",
+                    "subject_code": "21PHYL26",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 98
+                },
+                {
+                    "subject": "Basic Electrical Engineering Laboratory",
+                    "subject_code": "21ELEL27",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 96
+                },
+                {
+                    "subject": "Communicative English",
+                    "subject_code": "21EGH28",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 76
+                },
+                {
+                    "subject": "Innovation and Design Thinking",
+                    "subject_code": "21IDT29",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 91
+                }
+            ],
+            "total": 756,
+            "spga": 0
+        },
+        {
+            "name": "Karthik C H",
+            "usn": "4AI21AI026",
+            "cycle": "Physics",
+            "subjects": [
+                {
+                    "subject": "Advanced Calculus and Numerical Methods",
+                    "subject_code": "21MAT21",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 93
+                },
+                {
+                    "subject": "Engineering Physics",
+                    "subject_code": "21PHY22",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 89
+                },
+                {
+                    "subject": "Basic Electrical Engineering",
+                    "subject_code": "21ELE23",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 72
+                },
+                {
+                    "subject": "Elements of Civil Engineering & Mechanics",
+                    "subject_code": "21CIV24",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 76
+                },
+                {
+                    "subject": "Engineering Visualization",
+                    "subject_code": "21EVN25",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 93
+                },
+                {
+                    "subject": "Engineering Physics Laboratory",
+                    "subject_code": "21PHYL26",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 95
+                },
+                {
+                    "subject": "Basic Electrical Engineering Laboratory",
+                    "subject_code": "21ELEL27",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 79
+                },
+                {
+                    "subject": "Communicative English",
+                    "subject_code": "21EGH28",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 67
+                },
+                {
+                    "subject": "Innovation and Design Thinking",
+                    "subject_code": "21IDT29",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 89
+                }
+            ],
+            "total": 753,
+            "spga": 0
+        },
+        {
+            "name": "Varun C R",
+            "usn": "4AI21AI059",
+            "cycle": "Physics",
+            "subjects": [
+                {
+                    "subject": "Advanced Calculus and Numerical Methods",
+                    "subject_code": "21MAT21",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 82
+                },
+                {
+                    "subject": "Engineering Physics",
+                    "subject_code": "21PHY22",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 84
+                },
+                {
+                    "subject": "Basic Electrical Engineering",
+                    "subject_code": "21ELE23",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 82
+                },
+                {
+                    "subject": "Elements of Civil Engineering & Mechanics",
+                    "subject_code": "21CIV24",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 70
+                },
+                {
+                    "subject": "Engineering Visualization",
+                    "subject_code": "21EVN25",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 93
+                },
+                {
+                    "subject": "Engineering Physics Laboratory",
+                    "subject_code": "21PHYL26",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 76
+                },
+                {
+                    "subject": "Basic Electrical Engineering Laboratory",
+                    "subject_code": "21ELEL27",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 92
+                },
+                {
+                    "subject": "Communicative English",
+                    "subject_code": "21EGH28",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 80
+                },
+                {
+                    "subject": "Innovation and Design Thinking",
+                    "subject_code": "21IDT29",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 91
+                }
+            ],
+            "total": 750,
+            "spga": 0
+        },
+        {
+            "name": "Yashaswini K V",
+            "usn": "4AI21AI061",
+            "cycle": "Physics",
+            "subjects": [
+                {
+                    "subject": "Advanced Calculus and Numerical Methods",
+                    "subject_code": "21MAT21",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 77
+                },
+                {
+                    "subject": "Engineering Physics",
+                    "subject_code": "21PHY22",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 81
+                },
+                {
+                    "subject": "Basic Electrical Engineering",
+                    "subject_code": "21ELE23",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 76
+                },
+                {
+                    "subject": "Elements of Civil Engineering & Mechanics",
+                    "subject_code": "21CIV24",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 59
+                },
+                {
+                    "subject": "Engineering Visualization",
+                    "subject_code": "21EVN25",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 100
+                },
+                {
+                    "subject": "Engineering Physics Laboratory",
+                    "subject_code": "21PHYL26",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 98
+                },
+                {
+                    "subject": "Basic Electrical Engineering Laboratory",
+                    "subject_code": "21ELEL27",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 95
+                },
+                {
+                    "subject": "Communicative English",
+                    "subject_code": "21EGH28",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 69
+                },
+                {
+                    "subject": "Innovation and Design Thinking",
+                    "subject_code": "21IDT29",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 95
+                }
+            ],
+            "total": 750,
+            "spga": 0
+        }
+    ]
+}

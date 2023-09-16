@@ -1,0 +1,724 @@
+{
+    "rank": [
+        {
+            "name": "Soorya U",
+            "usn": "4AI21AI052",
+            "cycle": "Physics",
+            "subjects": [
+                {
+                    "subject": "Calculus and Differential Equations",
+                    "subject_code": "21MAT11",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 93
+                },
+                {
+                    "subject": "Engineering Physics",
+                    "subject_code": "21PHY12",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 86
+                },
+                {
+                    "subject": "Basic Electrical Engineering",
+                    "subject_code": "21ELE13",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 80
+                },
+                {
+                    "subject": "Elements of Civil Engineering & Mechanics",
+                    "subject_code": "21CIV14",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 92
+                },
+                {
+                    "subject": "Engineering Visualization",
+                    "subject_code": "21EVN15",
+                    "int_marks": 50,
+                    "ext_marks": 50,
+                    "total_marks": 100
+                },
+                {
+                    "subject": "Engineering Physics Laboratory",
+                    "subject_code": "21PHYL16",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 96
+                },
+                {
+                    "subject": "Basic Electrical Engineering Laboratory",
+                    "subject_code": "21ELEL17",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 98
+                },
+                {
+                    "subject": "Communicative English",
+                    "subject_code": "21EGH18",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 88
+                },
+                {
+                    "subject": "Innovation and Design Thinking",
+                    "subject_code": "21IDT19",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 96
+                }
+            ],
+            "total": 829,
+            "spga": 0
+        },
+        {
+            "name": "Gourav L R",
+            "usn": "4AI21AI018",
+            "cycle": "Physics",
+            "subjects": [
+                {
+                    "subject": "Calculus and Differential Equations",
+                    "subject_code": "21MAT11",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 96
+                },
+                {
+                    "subject": "Engineering Physics",
+                    "subject_code": "21PHY12",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 89
+                },
+                {
+                    "subject": "Basic Electrical Engineering",
+                    "subject_code": "21ELE13",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 81
+                },
+                {
+                    "subject": "Elements of Civil Engineering & Mechanics",
+                    "subject_code": "21CIV14",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 93
+                },
+                {
+                    "subject": "Engineering Visualization",
+                    "subject_code": "21EVN15",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 98
+                },
+                {
+                    "subject": "Engineering Physics Laboratory",
+                    "subject_code": "21PHYL16",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 93
+                },
+                {
+                    "subject": "Basic Electrical Engineering Laboratory",
+                    "subject_code": "21ELEL17",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 96
+                },
+                {
+                    "subject": "Communicative English",
+                    "subject_code": "21EGH18",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 86
+                },
+                {
+                    "subject": "Innovation and Design Thinking",
+                    "subject_code": "21IDT19",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 90
+                }
+            ],
+            "total": 822,
+            "spga": 0
+        },
+        {
+            "name": "H R Bhumi",
+            "usn": "4AI21AI019",
+            "cycle": "Physics",
+            "subjects": [
+                {
+                    "subject": "Calculus and Differential Equations",
+                    "subject_code": "21MAT11",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 77
+                },
+                {
+                    "subject": "Engineering Physics",
+                    "subject_code": "21PHY12",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 79
+                },
+                {
+                    "subject": "Basic Electrical Engineering",
+                    "subject_code": "21ELE13",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 70
+                },
+                {
+                    "subject": "Elements of Civil Engineering & Mechanics",
+                    "subject_code": "21CIV14",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 82
+                },
+                {
+                    "subject": "Engineering Visualization",
+                    "subject_code": "21EVN15",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 98
+                },
+                {
+                    "subject": "Engineering Physics Laboratory",
+                    "subject_code": "21PHYL16",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 97
+                },
+                {
+                    "subject": "Basic Electrical Engineering Laboratory",
+                    "subject_code": "21ELEL17",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 100
+                },
+                {
+                    "subject": "Communicative English",
+                    "subject_code": "21EGH18",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 86
+                },
+                {
+                    "subject": "Innovation and Design Thinking",
+                    "subject_code": "21IDT19",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 99
+                }
+            ],
+            "total": 788,
+            "spga": 0
+        },
+        {
+            "name": "Keerthana S S",
+            "usn": "4AI21AI028",
+            "cycle": "Chemistry",
+            "subjects": [
+                {
+                    "subject": "Calculus and Differential Equations",
+                    "subject_code": "21MAT11",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 91
+                },
+                {
+                    "subject": "Engineering Chemistry",
+                    "subject_code": "21CHE12",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 86
+                },
+                {
+                    "subject": "Problem Solving Through Programming",
+                    "subject_code": "21PSP13",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 91
+                },
+                {
+                    "subject": "Basic Electronics and Communication Engineering",
+                    "subject_code": "21ELN14",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 79
+                },
+                {
+                    "subject": "Elements of Mechanical Engineering",
+                    "subject_code": "21EME15",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 98
+                },
+                {
+                    "subject": "Engineering Chemistry Laboratory",
+                    "subject_code": "21PCHEL16",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 94
+                },
+                {
+                    "subject": "Computer Programming Laboratory",
+                    "subject_code": "21CPL17",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 100
+                },
+                {
+                    "subject": "Communicative English",
+                    "subject_code": "21EGH18",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 81
+                },
+                {
+                    "subject": "Scientific Foundation of Health",
+                    "subject_code": "21IDT19",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 81
+                }
+            ],
+            "total": 788,
+            "spga": 0
+        },
+        {
+            "name": "Yashaswini K V",
+            "usn": "4AI21AI061",
+            "cycle": "Chemistry",
+            "subjects": [
+                {
+                    "subject": "Calculus and Differential Equations",
+                    "subject_code": "21MAT11",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 96
+                },
+                {
+                    "subject": "Engineering Chemistry",
+                    "subject_code": "21CHE12",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 86
+                },
+                {
+                    "subject": "Problem Solving Through Programming",
+                    "subject_code": "21PSP13",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 71
+                },
+                {
+                    "subject": "Basic Electronics and Communication Engineering",
+                    "subject_code": "21ELN14",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 83
+                },
+                {
+                    "subject": "Elements of Mechanical Engineering",
+                    "subject_code": "21EME15",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 80
+                },
+                {
+                    "subject": "Engineering Chemistry Laboratory",
+                    "subject_code": "21PCHEL16",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 89
+                },
+                {
+                    "subject": "Computer Programming Laboratory",
+                    "subject_code": "21CPL17",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 99
+                },
+                {
+                    "subject": "Communicative English",
+                    "subject_code": "21EGH18",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 86
+                },
+                {
+                    "subject": "Scientific Foundation of Health",
+                    "subject_code": "21IDT19",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 83
+                }
+            ],
+            "total": 773,
+            "spga": 0
+        },
+        {
+            "name": "Keerthana C C",
+            "usn": "4AI21AI027",
+            "cycle": "Physics",
+            "subjects": [
+                {
+                    "subject": "Calculus and Differential Equations",
+                    "subject_code": "21MAT11",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 90
+                },
+                {
+                    "subject": "Engineering Physics",
+                    "subject_code": "21PHY12",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 80
+                },
+                {
+                    "subject": "Basic Electrical Engineering",
+                    "subject_code": "21ELE13",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 73
+                },
+                {
+                    "subject": "Elements of Civil Engineering & Mechanics",
+                    "subject_code": "21CIV14",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 84
+                },
+                {
+                    "subject": "Engineering Visualization",
+                    "subject_code": "21EVN15",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 94
+                },
+                {
+                    "subject": "Engineering Physics Laboratory",
+                    "subject_code": "21PHYL16",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 83
+                },
+                {
+                    "subject": "Basic Electrical Engineering Laboratory",
+                    "subject_code": "21ELEL17",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 95
+                },
+                {
+                    "subject": "Communicative English",
+                    "subject_code": "21EGH18",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 82
+                },
+                {
+                    "subject": "Innovation and Design Thinking",
+                    "subject_code": "21IDT19",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 89
+                }
+            ],
+            "total": 770,
+            "spga": 0
+        },
+        {
+            "name": "Anushree C B",
+            "usn": "4AI21AI009",
+            "cycle": "Chemistry",
+            "subjects": [
+                {
+                    "subject": "Calculus and Differential Equations",
+                    "subject_code": "21MAT11",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 88
+                },
+                {
+                    "subject": "Engineering Chemistry",
+                    "subject_code": "21CHE12",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 89
+                },
+                {
+                    "subject": "Problem Solving Through Programming",
+                    "subject_code": "21PSP13",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 68
+                },
+                {
+                    "subject": "Basic Electronics and Communication Engineering",
+                    "subject_code": "21ELN14",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 87
+                },
+                {
+                    "subject": "Elements of Mechanical Engineering",
+                    "subject_code": "21EME15",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 76
+                },
+                {
+                    "subject": "Engineering Chemistry Laboratory",
+                    "subject_code": "21PCHEL16",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 93
+                },
+                {
+                    "subject": "Computer Programming Laboratory",
+                    "subject_code": "21CPL17",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 100
+                },
+                {
+                    "subject": "Communicative English",
+                    "subject_code": "21EGH18",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 85
+                },
+                {
+                    "subject": "Scientific Foundation of Health",
+                    "subject_code": "21IDT19",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 80
+                }
+            ],
+            "total": 766,
+            "spga": 0
+        },
+        {
+            "name": "Varun C R",
+            "usn": "4AI21AI059",
+            "cycle": "Chemistry",
+            "subjects": [
+                {
+                    "subject": "Calculus and Differential Equations",
+                    "subject_code": "21MAT11",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 87
+                },
+                {
+                    "subject": "Engineering Chemistry",
+                    "subject_code": "21CHE12",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 93
+                },
+                {
+                    "subject": "Problem Solving Through Programming",
+                    "subject_code": "21PSP13",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 81
+                },
+                {
+                    "subject": "Basic Electronics and Communication Engineering",
+                    "subject_code": "21ELN14",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 71
+                },
+                {
+                    "subject": "Elements of Mechanical Engineering",
+                    "subject_code": "21EME15",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 69
+                },
+                {
+                    "subject": "Engineering Chemistry Laboratory",
+                    "subject_code": "21PCHEL16",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 99
+                },
+                {
+                    "subject": "Computer Programming Laboratory",
+                    "subject_code": "21CPL17",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 90
+                },
+                {
+                    "subject": "Communicative English",
+                    "subject_code": "21EGH18",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 89
+                },
+                {
+                    "subject": "Scientific Foundation of Health",
+                    "subject_code": "21IDT19",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 83
+                }
+            ],
+            "total": 762,
+            "spga": 0
+        },
+        {
+            "name": "Akshatha C G",
+            "usn": "4AI21AI005",
+            "cycle": "Chemistry",
+            "subjects": [
+                {
+                    "subject": "Calculus and Differential Equations",
+                    "subject_code": "21MAT11",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 80
+                },
+                {
+                    "subject": "Engineering Chemistry",
+                    "subject_code": "21CHE12",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 85
+                },
+                {
+                    "subject": "Problem Solving Through Programming",
+                    "subject_code": "21PSP13",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 79
+                },
+                {
+                    "subject": "Basic Electronics and Communication Engineering",
+                    "subject_code": "21ELN14",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 72
+                },
+                {
+                    "subject": "Elements of Mechanical Engineering",
+                    "subject_code": "21EME15",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 72
+                },
+                {
+                    "subject": "Engineering Chemistry Laboratory",
+                    "subject_code": "21PCHEL16",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 98
+                },
+                {
+                    "subject": "Computer Programming Laboratory",
+                    "subject_code": "21CPL17",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 93
+                },
+                {
+                    "subject": "Communicative English",
+                    "subject_code": "21EGH18",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 86
+                },
+                {
+                    "subject": "Scientific Foundation of Health",
+                    "subject_code": "21IDT19",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 84
+                }
+            ],
+            "total": 749,
+            "spga": 0
+        },
+        {
+            "name": "Chethan S M",
+            "usn": "4AI21AI013",
+            "cycle": "Physics",
+            "subjects": [
+                {
+                    "subject": "Calculus and Differential Equations",
+                    "subject_code": "21MAT11",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 90
+                },
+                {
+                    "subject": "Engineering Physics",
+                    "subject_code": "21PHY12",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 77
+                },
+                {
+                    "subject": "Basic Electrical Engineering",
+                    "subject_code": "21ELE13",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 69
+                },
+                {
+                    "subject": "Elements of Civil Engineering & Mechanics",
+                    "subject_code": "21CIV14",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 81
+                },
+                {
+                    "subject": "Engineering Visualization",
+                    "subject_code": "21EVN15",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 92
+                },
+                {
+                    "subject": "Engineering Physics Laboratory",
+                    "subject_code": "21PHYL16",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 85
+                },
+                {
+                    "subject": "Basic Electrical Engineering Laboratory",
+                    "subject_code": "21ELEL17",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 89
+                },
+                {
+                    "subject": "Communicative English",
+                    "subject_code": "21EGH18",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 71
+                },
+                {
+                    "subject": "Innovation and Design Thinking",
+                    "subject_code": "21IDT19",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 90
+                }
+            ],
+            "total": 744,
+            "spga": 0
+        }
+    ]
+}

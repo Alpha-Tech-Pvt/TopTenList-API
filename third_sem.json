@@ -1,0 +1,644 @@
+{
+    "rank": [
+        {
+            "name": "Yashaswini K V",
+            "usn": "4AI21AI061",
+            "subjects": [
+                {
+                    "subject": "Transorm Calculus, Fourier Series and Numerical Techniques",
+                    "subject_code": "21MAT31",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 92
+                },
+                {
+                    "subject": "Data Structures and Applications",
+                    "subject_code": "21CS32",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 86
+                },
+                {
+                    "subject": "Analog and Digital Electronics",
+                    "subject_code": "21CS33",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 79
+                },
+                {
+                    "subject": "Computer Organization and Architecture",
+                    "subject_code": "21CS34",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 86
+                },
+                {
+                    "subject": "Object Oriented Programming with Java Laboratory",
+                    "subject_code": "21CSL35",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 100
+                },
+                {
+                    "subject": "Social Connect and Responsibility",
+                    "subject_code": "21SCR36",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 100
+                },
+                {
+                    "subject": "Samskruthika Kannada",
+                    "subject_code": "21SCR36",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 92
+                },
+                {
+                    "subject": "Mastering Office",
+                    "subject_code": "21CSL381",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 100
+                }
+            ],
+            "total": 735,
+            "spga": 0
+        },
+        {
+            "name": "Keerthana S S",
+            "usn": "4AI21AI028",
+            "subjects": [
+                {
+                    "subject": "Transorm Calculus, Fourier Series and Numerical Techniques",
+                    "subject_code": "21MAT31",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 80
+                },
+                {
+                    "subject": "Data Structures and Applications",
+                    "subject_code": "21CS32",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 86
+                },
+                {
+                    "subject": "Analog and Digital Electronics",
+                    "subject_code": "21CS33",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 79
+                },
+                {
+                    "subject": "Computer Organization and Architecture",
+                    "subject_code": "21CS34",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 88
+                },
+                {
+                    "subject": "Object Oriented Programming with Java Laboratory",
+                    "subject_code": "21CSL35",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 100
+                },
+                {
+                    "subject": "Social Connect and Responsibility",
+                    "subject_code": "21SCR36",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 100
+                },
+                {
+                    "subject": "Samskruthika Kannada",
+                    "subject_code": "21SCR36",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 91
+                },
+                {
+                    "subject": "Mastering Office",
+                    "subject_code": "21CSL381",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 100
+                }
+            ],
+            "total": 724,
+            "spga": 0
+        },
+        {
+            "name": "Anushree C B",
+            "usn": "4AI21AI009",
+            "subjects": [
+                {
+                    "subject": "Transorm Calculus, Fourier Series and Numerical Techniques",
+                    "subject_code": "21MAT31",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 90
+                },
+                {
+                    "subject": "Data Structures and Applications",
+                    "subject_code": "21CS32",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 70
+                },
+                {
+                    "subject": "Analog and Digital Electronics",
+                    "subject_code": "21CS33",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 85
+                },
+                {
+                    "subject": "Computer Organization and Architecture",
+                    "subject_code": "21CS34",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 84
+                },
+                {
+                    "subject": "Object Oriented Programming with Java Laboratory",
+                    "subject_code": "21CSL35",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 100
+                },
+                {
+                    "subject": "Social Connect and Responsibility",
+                    "subject_code": "21SCR36",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 100
+                },
+                {
+                    "subject": "Samskruthika Kannada",
+                    "subject_code": "21SCR36",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 92
+                },
+                {
+                    "subject": "Mastering Office",
+                    "subject_code": "21CSL381",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 100
+                }
+            ],
+            "total": 721,
+            "spga": 0
+        },
+        {
+            "name": "Madhushree N K",
+            "usn": "4AI21AI032",
+            "subjects": [
+                {
+                    "subject": "Transorm Calculus, Fourier Series and Numerical Techniques",
+                    "subject_code": "21MAT31",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 87
+                },
+                {
+                    "subject": "Data Structures and Applications",
+                    "subject_code": "21CS32",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 72
+                },
+                {
+                    "subject": "Analog and Digital Electronics",
+                    "subject_code": "21CS33",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 75
+                },
+                {
+                    "subject": "Computer Organization and Architecture",
+                    "subject_code": "21CS34",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 88
+                },
+                {
+                    "subject": "Object Oriented Programming with Java Laboratory",
+                    "subject_code": "21CSL35",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 100
+                },
+                {
+                    "subject": "Social Connect and Responsibility",
+                    "subject_code": "21SCR36",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 100
+                },
+                {
+                    "subject": "Samskruthika Kannada",
+                    "subject_code": "21SCR36",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 92
+                },
+                {
+                    "subject": "Mastering Office",
+                    "subject_code": "21CSL381",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 100
+                }
+            ],
+            "total": 714,
+            "spga": 0
+        },
+        {
+            "name": "Soorya U",
+            "usn": "4AI21AI052",
+            "subjects": [
+                {
+                    "subject": "Transorm Calculus, Fourier Series and Numerical Techniques",
+                    "subject_code": "21MAT31",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 92
+                },
+                {
+                    "subject": "Data Structures and Applications",
+                    "subject_code": "21CS32",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 79
+                },
+                {
+                    "subject": "Analog and Digital Electronics",
+                    "subject_code": "21CS33",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 81
+                },
+                {
+                    "subject": "Computer Organization and Architecture",
+                    "subject_code": "21CS34",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 68
+                },
+                {
+                    "subject": "Object Oriented Programming with Java Laboratory",
+                    "subject_code": "21CSL35",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 100
+                },
+                {
+                    "subject": "Social Connect and Responsibility",
+                    "subject_code": "21SCR36",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 100
+                },
+                {
+                    "subject": "Samskruthika Kannada",
+                    "subject_code": "21SCR36",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 92
+                },
+                {
+                    "subject": "Mastering Office",
+                    "subject_code": "21CSL381",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 100
+                }
+            ],
+            "total": 712,
+            "spga": 0
+        },
+        {
+            "name": "Saanvi M J",
+            "usn": "4AI21AI044",
+            "subjects": [
+                {
+                    "subject": "Transorm Calculus, Fourier Series and Numerical Techniques",
+                    "subject_code": "21MAT31",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 87
+                },
+                {
+                    "subject": "Data Structures and Applications",
+                    "subject_code": "21CS32",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 84
+                },
+                {
+                    "subject": "Analog and Digital Electronics",
+                    "subject_code": "21CS33",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 70
+                },
+                {
+                    "subject": "Computer Organization and Architecture",
+                    "subject_code": "21CS34",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 87
+                },
+                {
+                    "subject": "Object Oriented Programming with Java Laboratory",
+                    "subject_code": "21CSL35",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 100
+                },
+                {
+                    "subject": "Social Connect and Responsibility",
+                    "subject_code": "21SCR36",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 100
+                },
+                {
+                    "subject": "Samskruthika Kannada",
+                    "subject_code": "21SCR36",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 94
+                },
+                {
+                    "subject": "Mastering Office",
+                    "subject_code": "21CSL381",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 100
+                }
+            ],
+            "total": 712,
+            "spga": 0
+        },
+        {
+            "name": "Akshatha C G",
+            "usn": "4AI21AI005",
+            "subjects": [
+                {
+                    "subject": "Transorm Calculus, Fourier Series and Numerical Techniques",
+                    "subject_code": "21MAT31",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 77
+                },
+                {
+                    "subject": "Data Structures and Applications",
+                    "subject_code": "21CS32",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 79
+                },
+                {
+                    "subject": "Analog and Digital Electronics",
+                    "subject_code": "21CS33",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 71
+                },
+                {
+                    "subject": "Computer Organization and Architecture",
+                    "subject_code": "21CS34",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 80
+                },
+                {
+                    "subject": "Object Oriented Programming with Java Laboratory",
+                    "subject_code": "21CSL35",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 100
+                },
+                {
+                    "subject": "Social Connect and Responsibility",
+                    "subject_code": "21SCR36",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 99
+                },
+                {
+                    "subject": "Samskruthika Kannada",
+                    "subject_code": "21SCR36",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 96
+                },
+                {
+                    "subject": "Mastering Office",
+                    "subject_code": "21CSL381",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 99
+                }
+            ],
+            "total": 701,
+            "spga": 0
+        },
+        {
+            "name": "H R Bhumi",
+            "usn": "4AI21AI019",
+            "subjects": [
+                {
+                    "subject": "Transorm Calculus, Fourier Series and Numerical Techniques",
+                    "subject_code": "21MAT31",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 81
+                },
+                {
+                    "subject": "Data Structures and Applications",
+                    "subject_code": "21CS32",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 74
+                },
+                {
+                    "subject": "Analog and Digital Electronics",
+                    "subject_code": "21CS33",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 65
+                },
+                {
+                    "subject": "Computer Organization and Architecture",
+                    "subject_code": "21CS34",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 82
+                },
+                {
+                    "subject": "Object Oriented Programming with Java Laboratory",
+                    "subject_code": "21CSL35",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 100
+                },
+                {
+                    "subject": "Social Connect and Responsibility",
+                    "subject_code": "21SCR36",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 100
+                },
+                {
+                    "subject": "Samskruthika Kannada",
+                    "subject_code": "21SCR36",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 97
+                },
+                {
+                    "subject": "Mastering Office",
+                    "subject_code": "21CSL381",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 100
+                }
+            ],
+            "total": 699,
+            "spga": 0
+        },
+        {
+            "name": "Amaan Mohammed Khalander",
+            "usn": "4AI21AI006",
+            "subjects": [
+                {
+                    "subject": "Transorm Calculus, Fourier Series and Numerical Techniques",
+                    "subject_code": "21MAT31",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 76
+                },
+                {
+                    "subject": "Data Structures and Applications",
+                    "subject_code": "21CS32",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 89
+                },
+                {
+                    "subject": "Analog and Digital Electronics",
+                    "subject_code": "21CS33",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 81
+                },
+                {
+                    "subject": "Computer Organization and Architecture",
+                    "subject_code": "21CS34",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 72
+                },
+                {
+                    "subject": "Object Oriented Programming with Java Laboratory",
+                    "subject_code": "21CSL35",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 100
+                },
+                {
+                    "subject": "Social Connect and Responsibility",
+                    "subject_code": "21SCR36",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 99
+                },
+                {
+                    "subject": "Samskruthika Kannada",
+                    "subject_code": "21SCR36",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 78
+                },
+                {
+                    "subject": "Mastering Office",
+                    "subject_code": "21CSL381",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 100
+                }
+            ],
+            "total": 695,
+            "spga": 0
+        },
+        {
+            "name": "Syeda Taneen Falak",
+            "usn": "4AI21AI056",
+            "subjects": [
+                {
+                    "subject": "Transorm Calculus, Fourier Series and Numerical Techniques",
+                    "subject_code": "21MAT31",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 91
+                },
+                {
+                    "subject": "Data Structures and Applications",
+                    "subject_code": "21CS32",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 74
+                },
+                {
+                    "subject": "Analog and Digital Electronics",
+                    "subject_code": "21CS33",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 73
+                },
+                {
+                    "subject": "Computer Organization and Architecture",
+                    "subject_code": "21CS34",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 82
+                },
+                {
+                    "subject": "Object Oriented Programming with Java Laboratory",
+                    "subject_code": "21CSL35",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 100
+                },
+                {
+                    "subject": "Social Connect and Responsibility",
+                    "subject_code": "21SCR36",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 100
+                },
+                {
+                    "subject": "Samskruthika Kannada",
+                    "subject_code": "21SCR36",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 73
+                },
+                {
+                    "subject": "Mastering Office",
+                    "subject_code": "21CSL381",
+                    "int_marks": 0,
+                    "ext_marks": 0,
+                    "total_marks": 100
+                }
+            ],
+            "total": 693,
+            "spga": 0
+        }
+    ]
+}
