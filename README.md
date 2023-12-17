@@ -1,4 +1,4 @@
-# topTenList - API
+## [TopTenList - API](https://github.com/Alpha-Tech-Pvt/TopTenList-API)
 
 An API which has Personal Info, Scores and SGPA of a Top 10 Students.
 
